@@ -16,6 +16,4 @@ func isPalindrome(inputString string) bool {
 		start++
 		end--
 	}
-
-	return true
 }
